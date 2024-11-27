@@ -1,0 +1,11 @@
+{
+    "name": "node-app",
+    "version": "1.0.0",
+    "description": "Пример Node.js приложения на Docker",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {}
+  }
+  
